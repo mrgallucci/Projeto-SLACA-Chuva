@@ -1,0 +1,13 @@
+/* Media query  */
+@media screen and (max-width: 768px) {
+  #small-screen-menu {
+    display: inline;
+  }
+  aside {
+    display: none;
+  }
+  #small-screen-menu {
+    width: 48px;
+    height: 70px;
+  }
+}
